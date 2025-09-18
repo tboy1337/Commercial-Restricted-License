@@ -188,6 +188,7 @@ We welcome contributions to improve the CRL license template:
 - Improved text formatting in "No Warranty" section for better readability
 - Updated liability clause to reference "AUTHORS OR COPYRIGHT HOLDERS"
 - Enhanced consistency in legal terminology
+- Removed the need to clearly mark any modifications made to the Software
 
 ### Version 1.0 (2025)
 - Initial release of Commercial Restricted License
