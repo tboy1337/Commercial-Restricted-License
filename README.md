@@ -42,15 +42,15 @@ The following uses **require a commercial license**:
 
 1. Copy the `CRL.md` file to your project
 2. Replace the placeholders:
-   - `<YEAR>` with the copyright year
-   - `<YOUR NAME>` with your name or organization
-   - `<YOUR COUNTRY>` with your jurisdiction
+   - `[YEAR]` with the copyright year
+   - `[YOUR NAME]` with your name or organization
+   - `[YOUR COUNTRY]` with your jurisdiction
 3. Add this to your project's main README:
 
 ```markdown
 ## License
 
-This project is licensed under the Commercial Restricted License (CRL) v1.0.
+This project is licensed under the Commercial Restricted License (CRL) v1.1.
 See [LICENSE](LICENSE) for details.
 
 For commercial use, please contact [your-email@example.com] for licensing options.
@@ -99,7 +99,7 @@ The complete license text is available in [`CRL.md`](CRL.md).
 ```markdown
 ## License
 
-Licensed under the Commercial Restricted License (CRL) v1.0.
+Licensed under the Commercial Restricted License (CRL) v1.1.
 
 - ✅ **Free** for non-commercial use
 - 💼 **Commercial license** required for business use
@@ -111,9 +111,9 @@ Contact: commercial@yourcompany.com
 
 ```python
 """
-Copyright (c) 2025 Your Name
+Copyright (c) [YEAR] [YOUR NAME]
 
-Licensed under the Commercial Restricted License (CRL) v1.0.
+Licensed under the Commercial Restricted License (CRL) v1.1.
 See LICENSE file for details.
 
 For commercial licensing, contact: license@yourcompany.com
@@ -182,6 +182,12 @@ We welcome contributions to improve the CRL license template:
 - 📚 **Legal advice**: Consult qualified legal counsel
 
 ## Changelog
+
+### Version 1.1 (2025)
+- Updated placeholder format from angle brackets (`<>`) to square brackets (`[]`)
+- Improved text formatting in "No Warranty" section for better readability
+- Updated liability clause to reference "AUTHORS OR COPYRIGHT HOLDERS"
+- Enhanced consistency in legal terminology
 
 ### Version 1.0 (2025)
 - Initial release of Commercial Restricted License
