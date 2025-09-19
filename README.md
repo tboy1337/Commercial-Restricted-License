@@ -41,6 +41,7 @@ The following uses **require a commercial license**:
 ### For Software Authors
 
 1. Copy the `CRL.md` file to your project
+2. Rename `CRL.md` to `LICENSE.md`
 2. Replace the placeholders:
    - `[YEAR]` with the copyright year
    - `[YOUR NAME]` with your name or organization
