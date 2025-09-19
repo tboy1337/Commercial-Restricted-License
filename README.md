@@ -51,7 +51,7 @@ The following uses **require a commercial license**:
 ## License
 
 This project is licensed under the Commercial Restricted License (CRL) v1.1.
-See [LICENSE](LICENSE) for details.
+See [LICENSE.md](LICENSE.md) for details.
 
 For commercial use, please contact [your-email@example.com] for licensing options.
 ```
